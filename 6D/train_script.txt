@@ -1,0 +1,11 @@
+train_net_large_scale.py
+--gpu
+0
+--cfg
+../experiments/cfgs/curiosity_fnot_rgb_large_scale_v10_baseline.yml
+--trainset
+train@curiosity
+--valset
+train@curiosity
+--phase
+REF

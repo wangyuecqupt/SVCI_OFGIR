@@ -1,0 +1,13 @@
+# Target labels
+ ext_turbojpeg
+# Source files and their labels
+/home/yxh/文档/yolov5/Open3D/3rdparty/CMakeFiles/ext_turbojpeg
+/home/yxh/文档/yolov5/Open3D/3rdparty/CMakeFiles/ext_turbojpeg.rule
+/home/yxh/文档/yolov5/Open3D/3rdparty/CMakeFiles/ext_turbojpeg-complete.rule
+/home/yxh/文档/yolov5/Open3D/3rdparty/turbojpeg/src/ext_turbojpeg-stamp/ext_turbojpeg-install.rule
+/home/yxh/文档/yolov5/Open3D/3rdparty/turbojpeg/src/ext_turbojpeg-stamp/ext_turbojpeg-mkdir.rule
+/home/yxh/文档/yolov5/Open3D/3rdparty/turbojpeg/src/ext_turbojpeg-stamp/ext_turbojpeg-download.rule
+/home/yxh/文档/yolov5/Open3D/3rdparty/turbojpeg/src/ext_turbojpeg-stamp/ext_turbojpeg-update.rule
+/home/yxh/文档/yolov5/Open3D/3rdparty/turbojpeg/src/ext_turbojpeg-stamp/ext_turbojpeg-patch.rule
+/home/yxh/文档/yolov5/Open3D/3rdparty/turbojpeg/src/ext_turbojpeg-stamp/ext_turbojpeg-configure.rule
+/home/yxh/文档/yolov5/Open3D/3rdparty/turbojpeg/src/ext_turbojpeg-stamp/ext_turbojpeg-build.rule

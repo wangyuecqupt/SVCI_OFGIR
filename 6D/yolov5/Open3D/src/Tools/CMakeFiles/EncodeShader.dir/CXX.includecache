@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yxh/文档/yolov5/Open3D/src/Tools/EncodeShader.cpp
+cstdio
+-
+cstdlib
+-
+string
+-
+

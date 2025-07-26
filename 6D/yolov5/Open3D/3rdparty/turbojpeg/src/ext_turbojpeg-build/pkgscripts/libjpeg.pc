@@ -1,0 +1,10 @@
+prefix=/home/yxh/文档/yolov5/Open3D/3rdparty_install
+exec_prefix=/home/yxh/文档/yolov5/Open3D/3rdparty_install
+libdir=/home/yxh/文档/yolov5/Open3D/3rdparty_install/lib
+includedir=/home/yxh/文档/yolov5/Open3D/3rdparty_install/include
+
+Name: libjpeg
+Description: A SIMD-accelerated JPEG codec that provides the libjpeg API
+Version: 2.0.3
+Libs: -L${libdir} -ljpeg
+Cflags: -I${includedir}

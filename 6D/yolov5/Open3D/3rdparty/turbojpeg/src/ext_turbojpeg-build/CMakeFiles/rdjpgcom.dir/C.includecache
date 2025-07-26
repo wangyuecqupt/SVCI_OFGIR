@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yxh/文档/yolov5/Open3D/3rdparty/libjpeg-turbo/libjpeg-turbo/jinclude.h
+jconfig.h
+/home/yxh/文档/yolov5/Open3D/3rdparty/libjpeg-turbo/libjpeg-turbo/jconfig.h
+stddef.h
+-
+stdlib.h
+-
+sys/types.h
+-
+stdio.h
+-
+strings.h
+-
+string.h
+-
+
+/home/yxh/文档/yolov5/Open3D/3rdparty/libjpeg-turbo/libjpeg-turbo/rdjpgcom.c
+jinclude.h
+/home/yxh/文档/yolov5/Open3D/3rdparty/libjpeg-turbo/libjpeg-turbo/jinclude.h
+locale.h
+-
+ctype.h
+-
+fcntl.h
+-
+io.h
+-
+SIOUX.h
+-
+console.h
+-
+console.h
+-
+
+jconfig.h
+

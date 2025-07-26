@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yxh/文档/yolov5/Open3D/3rdparty/tinyobjloader/tiny_obj_loader.cc
+tiny_obj_loader.h
+/home/yxh/文档/yolov5/Open3D/3rdparty/tinyobjloader/tiny_obj_loader.h
+
+/home/yxh/文档/yolov5/Open3D/3rdparty/tinyobjloader/tiny_obj_loader.h
+map
+-
+string
+-
+vector
+-
+cassert
+-
+cctype
+-
+cmath
+-
+cstddef
+-
+cstdlib
+-
+cstring
+-
+limits
+-
+utility
+-
+fstream
+-
+sstream
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -fPIC -fopenmp -O3 -DNDEBUG -rdynamic CMakeFiles/EncodeShader.dir/EncodeShader.cpp.o -o ../../bin/EncodeShader   -L/home/yxh/文档/yolov5/Open3D/Open3D  -L/home/yxh/文档/yolov5/Open3D/3rdparty_install/lib 
